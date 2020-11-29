@@ -15,9 +15,9 @@ first of all, you need to change the input pin according to yours and also you n
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Raspberry Pi with Motion sensor</td>
+     <td>LED blinking after Movment Detected</td>
+     <td>Images on Telegram Bot</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/6876758/100547845-4aa1ba80-3269-11eb-9909-9f7c6e3fa9ca.jpeg" width=270 height=480></td>
