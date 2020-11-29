@@ -6,7 +6,7 @@ simple burglar alarm with raspberry pie and motion sensor
 in this simple project, I've developed a motion detector with a raspberry pi and a USB camera.
 first of all, you need to change the input pin according to yours.
 and also you need to paste your own Telegram token.
-<br>
+---
 you can also remove Led function line it just for blinking LED when any movement happens if you have RGB led in your board you can use it.
 ---
 **Raspberry pi with motion sensor and RGB LED
