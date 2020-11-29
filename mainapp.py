@@ -4,8 +4,6 @@ import datetime
 import os
 import sys
 from led import led_functions
-
-
 import requests
 
 def sendimage(imagename):
@@ -17,14 +15,9 @@ def sendimage(imagename):
     print(r.status_code, r.reason, r.content)
     url2 = f"https://api.telegram.org/{paste your token id here}/sendMessage?chat_id={paste your telegram id}&text= a movment detected at - {imagename}"
     r2 = requests.post(url2)
-
-
-#
-
 GPIO.setmode(GPIO.BOARD)
 PIR_PIN = 26
 GPIO.setup(PIR_PIN, GPIO.IN)
-
 try:
                time.sleep(2)
                print ("Ready")
