@@ -1,7 +1,13 @@
 # Burglar Detector for you Home
 ### Introduction
-simple burglar alarm with Raspberry Pi and motion sensor
+simple burglar alarm with Raspberry Pi and motion sensor , you can also deploy this idea using Arduino.
 <img src="https://i.ibb.co/02LZMFw/Capture.jpg" alt="Capture" border="3">
+
+## what you need
+
+- [Raspberry Pi](#-)
+- [Motion sensor](#-)
+- [RGB LED for Alarm](#-)
 
 in this simple Python project, I've developed a motion detector with a raspberry pi and a USB camera.
 first of all, you need to change the input pin according to yours and also you need to paste your own Telegram token.
