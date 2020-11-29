@@ -16,7 +16,7 @@ first of all, you need to change the input pin according to yours and also you n
 <table>
   <tr>
     <td>Raspberry Pi with Motion sensor</td>
-     <td>LED blinking after Movment Detected</td>
+     <td>LED blinking after Movement Detected</td>
      <td>Images on Telegram Bot</td>
   </tr>
   <tr>
