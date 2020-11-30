@@ -25,6 +25,6 @@ first of all, you need to change the input pin according to yours and also you n
     <td><img src="https://user-images.githubusercontent.com/6876758/100543258-5b453700-324f-11eb-988f-dc445879cee9.png" width=270 height=480></td>
   </tr>
  </table>
-you can also remove Led function line, it just for blinking LED when any movement happens if you have RGB led in your board you can use it.
+you can also remove LED function line, it just for blinking LED when any movement happens if you have RGB led on your board you can use it.
 
 
